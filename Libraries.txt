@@ -1,0 +1,6 @@
+//APPS TO INSTALL
+
+sudo apt update
+sudo apt install default-jdk
+swingx-all-1.6.4.jar
+sudo apt-get install libswingx-java
